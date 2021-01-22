@@ -1,5 +1,5 @@
 <?php
 
-include_once("layout.html")
+include_once("ajantha/layout.html")
 
 ?>
