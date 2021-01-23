@@ -4,7 +4,7 @@
 
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url(ajantha/sahyadri.jpg);
+    background-image: url("ajantha/sahyadri.jpg");
     background-size: cover;
     background: rgba(red, green, blue, 0.8);
 }
